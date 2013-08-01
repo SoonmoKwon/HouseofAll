@@ -1,0 +1,1 @@
+web: gunicorn HouseofAll/wsgi.py

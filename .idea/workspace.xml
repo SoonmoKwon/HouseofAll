@@ -13,6 +13,7 @@
     <file path="/wsgi.py" changelist="c90960c8-eb29-42c0-ab0d-e8c35f4f3ace" time="1375322534230" ignored="false" />
     <file path="$PROJECT_DIR$/../FamilyBridge/requirements.txt" changelist="c90960c8-eb29-42c0-ab0d-e8c35f4f3ace" time="1375323132598" ignored="false" />
     <file path="/settings.py" changelist="c90960c8-eb29-42c0-ab0d-e8c35f4f3ace" time="1375323268687" ignored="false" />
+    <file path="/Procfile" changelist="c90960c8-eb29-42c0-ab0d-e8c35f4f3ace" time="1375324429456" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,10 +44,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="10" selection-start="209" selection-end="209" vertical-scroll-proportion="0.47263682">
+            <state line="20" column="10" selection-start="209" selection-end="209" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Procfile" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Procfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="32" selection-start="32" selection-end="32" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -162,6 +172,7 @@
         <option value="$PROJECT_DIR$/requirements.txt" />
         <option value="$PROJECT_DIR$/HouseofAll/settings.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/Procfile" />
       </list>
     </option>
   </component>
@@ -534,11 +545,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/static/ifeature/cyberchimps/lib/images/left.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/static/ifeature/cyberchimps/lib/images/social/default/facebook.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -661,7 +667,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="10" selection-start="209" selection-end="209" vertical-scroll-proportion="0.47263682">
+        <state line="20" column="10" selection-start="209" selection-end="209" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Procfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="32" selection-start="32" selection-end="32" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
